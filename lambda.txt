@@ -1,0 +1,16 @@
+import json
+import math
+import boto3
+dynamodb=boto3.resource('dynamodb')
+table=dynamodb.Table('powerofmathDB')
+def lambda_handler(event, context):
+    result=math.pow(int(event['base']),int(event['exponent']))
+    response=table.put_item(
+        Item={
+            'ID': str(result)
+        }
+    )
+    return {
+        'statusCode': 200,
+        'body': json.dumps('Your result is '+ str(result))
+    }
