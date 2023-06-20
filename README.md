@@ -2,14 +2,17 @@
 # My WebApp
 This WebApp receives a pair of inputs—an esteemed base and its corresponding exponent and effortlessly produces the result as the output.
 ![Screenshot (313)_](https://github.com/KSaiteja05/WebApp/assets/102404293/22091a98-9973-4091-ba47-56c963f275ac)
-# This amazing WebApp was built using AWS Cloud, employing different services to make it happen.
-# Services:-
+# This amazing WebApp was built using AWS Cloud and front-end, employing different services to make it happen.
+# Services used:-
 1. Amplify
 2. Lambda
 3. API Gateway
 4. IAM
 5. DynamoDB.
- And for building webpage HTML, CSS, Javascript are used.
+# Front-end Technologies used:-
+1. HTML
+2. CSS
+3. Javascript
 # The process is shown below:
 1. Hosting the webpage in AWS Amplify.
 
