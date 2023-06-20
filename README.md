@@ -13,7 +13,7 @@ This WebApp receives a pair of inputs—an esteemed base and its corresponding e
 1. HTML
 2. CSS
 3. Javascript
-# The process is shown below:
+# The process to build WebApp is shown below:
 1. Hosting the webpage in AWS Amplify.
 
 ![Screenshot (301)](https://github.com/KSaiteja05/WebApp/assets/102404293/598f0bcd-f9cc-4e95-819c-d85f3718fbd2)
