@@ -9,7 +9,7 @@ This WebApp receives a pair of inputs—an esteemed base and its corresponding e
 3. API Gateway
 4. IAM
 5. DynamoDB.
-And for building webpage HTML, CSS, Javascript are used.
+# And for building webpage HTML, CSS, Javascript are used.
 # The process is shown below:
 1. Hosting the webpage in AWS Amplify.
 
