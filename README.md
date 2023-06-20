@@ -1,6 +1,7 @@
 # Project on AWS Cloud 
 # My WebApp
 This WebApp receives a pair of inputs—an esteemed base and its corresponding exponent and effortlessly produces the result as the output.
+
 ![Screenshot (313)_](https://github.com/KSaiteja05/WebApp/assets/102404293/22091a98-9973-4091-ba47-56c963f275ac)
 # This amazing WebApp was built using AWS Cloud and front-end, employing different services to make it happen.
 # AWS Services used:-
