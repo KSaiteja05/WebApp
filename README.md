@@ -14,6 +14,8 @@ This WebApp receives a pair of inputs—an esteemed base and its corresponding e
 1. HTML
 2. CSS
 3. Javascript
+# Actual Background Process:
+When base and exponent is given as input it triggers the API Gateway which invokes the math function and the actual calculation is done in Lambda which has given some permission to the DyanamoDB from IAM and finally result is stored in DynamoDB and displays the output.
 # The process to build WebApp is shown below:
 # 1. Hosting the webpage in AWS Amplify.
 
