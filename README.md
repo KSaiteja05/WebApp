@@ -17,10 +17,17 @@ This WebApp receives a pair of inputs—an esteemed base and its corresponding e
 1. Hosting the webpage in AWS Amplify.
 
 ![Screenshot (301)](https://github.com/KSaiteja05/WebApp/assets/102404293/598f0bcd-f9cc-4e95-819c-d85f3718fbd2)
+
 2. Creating a function in AWS Lambda which does the math calculation.
+   
 ![Screenshot (302)](https://github.com/KSaiteja05/WebApp/assets/102404293/e7639d8d-855d-4190-a204-df75ca6b2ed1)
 ![Screenshot (312)](https://github.com/KSaiteja05/WebApp/assets/102404293/fd8d9b5f-f47a-454a-a95b-e783eddb8788)
+
 3. Creating API Gateway to invoke the math functionality.
+
 ![Screenshot (304)](https://github.com/KSaiteja05/WebApp/assets/102404293/fcfd7e20-1e97-49f5-a5bf-9bc3b51084bf)
 ![Screenshot (306)](https://github.com/KSaiteja05/WebApp/assets/102404293/448682f9-de5d-43e7-a649-0ed9c04f5013)
+
 4. Testing the Output.
+
+![Uploading Screenshot (307).png…]()
