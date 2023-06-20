@@ -36,7 +36,7 @@ When base and exponent is given as input it triggers the API Gateway which invok
 ![Screenshot (307)](https://github.com/KSaiteja05/WebApp/assets/102404293/26cbbe32-4cc9-452f-a86c-64d5d4b3bdd6)
 
 After creating API Gateway the link below is used in webpage, whenever it has to trigger the API Gateway then it is called using this link.
-Link:- https://3mv0gmp0xa.execute-api.eu-north-1.amazonaws.com/dev
+# Link:- https://3mv0gmp0xa.execute-api.eu-north-1.amazonaws.com/dev
 
 # 5. Creating a Database using DynamoDB.
 
@@ -47,7 +47,7 @@ Link:- https://3mv0gmp0xa.execute-api.eu-north-1.amazonaws.com/dev
 ![Screenshot (309)](https://github.com/KSaiteja05/WebApp/assets/102404293/fe99445b-f803-4191-8a0c-51ee2a42007d)
 
 While giving the permissions ARN link(given below) should be given in JSON file which is the reference of DynamoDB
-Link:- arn:aws:dynamodb:eu-north-1:215061023706:table/powerofmathDB
+# Link:- aws:dynamodb:eu-north-1:215061023706:table/powerofmathDB
 
 ![Screenshot (310)](https://github.com/KSaiteja05/WebApp/assets/102404293/8a8b2bf6-a827-4dbb-9a07-f4147fb15fd6)
 
