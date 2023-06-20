@@ -58,6 +58,7 @@ Link:- arn:aws:dynamodb:eu-north-1:215061023706:table/powerofmathDB
 After all the processes are interlinked we can use the webpage through the link provided by the  Amplify.<br>
 Link:- https://dev.d1nchosmferi7u.amplifyapp.com/
 
+![Screenshot (315)](https://github.com/KSaiteja05/WebApp/assets/102404293/96fec160-4060-4445-b84c-b68fd0154068)
 ![Screenshot (313)](https://github.com/KSaiteja05/WebApp/assets/102404293/92027b6a-be9c-444d-91d2-abf95172aac2)
 
 # 8. Finally the Outcome appears like this......
